@@ -1,0 +1,20 @@
+{
+  "name": "pandoc-filter-go",
+  "version": "1.0.0",
+  "description": "Filter Golang templates from Markdown.",
+  "main": "filter-go.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pandoc",
+    "filter",
+    "golang",
+    "templates"
+  ],
+  "author": "Frank Ridderbusch",
+  "license": "ISC",
+  "dependencies": {
+    "pandoc-filter": "^0.1.4"
+  }
+}

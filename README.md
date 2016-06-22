@@ -1,0 +1,2 @@
+# pandoc-filter-go
+
