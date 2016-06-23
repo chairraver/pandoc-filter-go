@@ -2,5 +2,11 @@
   "globalDependencies": {
     "node": "registry:dt/node#6.0.0+20160621231320",
     "require": "registry:dt/require#2.1.20+20160316155526"
+  },
+  "devDependencies": {
+    "requirejs": "registry:npm/requirejs#2.2.0+20160319062357"
+  },
+  "globalDevDependencies": {
+    "node": "registry:dt/node#6.0.0+20160621231320"
   }
 }
