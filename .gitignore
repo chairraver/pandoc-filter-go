@@ -1,2 +1,4 @@
 node_modules/**
+typings/**
 .tern-port
+*.map
