@@ -29,7 +29,8 @@ play. It is used in combination with the Pandoc `--filter` option and
 removes any text between `{{<` and `>}}` tags.
 
 This is my first foray into Javascript and Typescript. The are really
-a large number of moving pieces for a complete newbie. 
+a large number of moving pieces for a complete newbie, so the setup of
+this repo might be subpar.
 
 ## Example 
 
